@@ -306,7 +306,7 @@ For support and questions:
 ---
 
 <div align="center">
-  <b>Built by Abdur Rahman Hanas for the restaurant industry</b>
+  <b>Built by Abdur Rahman Hanas and the Team</b>
   <br>
   <sub>Star this repository if you found it helpful!</sub>
 </div>

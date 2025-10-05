@@ -16,48 +16,48 @@ A comprehensive Point of Sale (POS) and Restaurant Management System built with 
 
 ### Dashboard & Analytics
 
-![Dashboard](cafe/screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Login & Authentication
 
-![Login](cafe/screenshots/login.png)
+![Login](screenshots/login.png)
 
 ### Menu & Category Management
 
-![Menu Management](cafe/screenshots/menu_management.png)
-![Category Management](cafe/screenshots/manage_categories.png)
+![Menu Management](screenshots/menu_management.png)
+![Category Management](screenshots/manage_categories.png)
 
 ### Sales & Orders
 
-![Sales Channel](cafe/screenshots/sales_channel.png)
-![Pre Orders](cafe/screenshots/pre_orders.png)
+![Sales Channel](screenshots/sales_channel.png)
+![Pre Orders](screenshots/pre_orders.png)
 
 ### Inventory Management
 
-![Supplier Management](cafe/screenshots/supplier_management.png)
-![Purchase Orders](cafe/screenshots/purchase_order.png)
-![GRN (Goods Receipt Note)](cafe/screenshots/grn.png)
-![Damaged Stock](cafe/screenshots/damaged_stock.png)
+![Supplier Management](screenshots/supplier_management.png)
+![Purchase Orders](screenshots/purchase_order.png)
+![GRN (Goods Receipt Note)](screenshots/grn.png)
+![Damaged Stock](screenshots/damaged_stock.png)
 
 ### Customer & Table Management
 
-![Customer Management](cafe/screenshots/customer_management.png)
-![Table Management](cafe/screenshots/table_management.png)
-![Reservations](cafe/screenshots/reservations.png)
+![Customer Management](screenshots/customer_management.png)
+![Table Management](screenshots/table_management.png)
+![Reservations](screenshots/reservations.png)
 
 ### Reports & Analytics
 
-![Analytics & Reports](cafe/screenshots/analytics_and_reports.png)
+![Analytics & Reports](screenshots/analytics_and_reports.png)
 
 ### User & System Management
 
-![User Management](cafe/screenshots/user_management.png)
-![User Activity](cafe/screenshots/user_activity.png)
-![Settings](cafe/screenshots/settings.png)
+![User Management](screenshots/user_management.png)
+![User Activity](screenshots/user_activity.png)
+![Settings](screenshots/settings.png)
 
 ### Discounts & Promotions
 
-![Discounts](cafe/screenshots/discounts.png)
+![Discounts](screenshots/discounts.png)
 
 ## Features
 
@@ -306,7 +306,7 @@ For support and questions:
 ---
 
 <div align="center">
-  <b>Built by Abdur Rahman Hanas and the Team</b>
+  <b>Built by Abdur Rahman Hanas for the restaurant industry</b>
   <br>
   <sub>Star this repository if you found it helpful!</sub>
 </div>
